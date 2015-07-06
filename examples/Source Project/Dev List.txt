@@ -1,0 +1,8 @@
+1. add control and documentation for SETTINGS.command_foreground
+2. implement a do_help method on the HermeneusCommands class
+3. create a class that can run the evaluations and keep state
+4. add do_eval method on HermeneusCommands to run the evaluations
+5. document all of the changes for anyone who uses Hermeneus
+
+6. create public and private and wispered command interface
+7. Check slots on new classes and changes from last time as well
